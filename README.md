@@ -1,2 +1,2 @@
-# mb-u-website-class
-## mb-u-website-class 20th August, 2025
+# MB & U Professional Web Development Class Project 1.0
+## This is a guideline to help students setup the project on their machines
