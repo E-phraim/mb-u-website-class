@@ -4,3 +4,5 @@
 - VS Code
 - Google Chrome
 - Git
+
+### NB: Please, make sure you've installed the LiveServer extension on your VS Code. Without it, you might face some issues
